@@ -1,7 +1,4 @@
 # reverberate
-Exploring SVGs, and representing the word "reverberate"
-
-# Reverberate
 Author: Jade Chan, Date: Oct 3, 2016
 
 ---
